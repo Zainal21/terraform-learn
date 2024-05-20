@@ -1,0 +1,6 @@
+do_token=""
+vpc_name = "trf-production"
+vpc_cidr = "#"
+droplet_name = "learn-terraform"
+droplet_size = "s-1vcpu-2gb"
+ssh_key_path = "./learn-terraform.pub"
